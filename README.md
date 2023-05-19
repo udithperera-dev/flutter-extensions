@@ -18,6 +18,8 @@ Unique Extension(remove-duplicates.dart)
                               Man(name:'d',height: 5),
                               Man(name:'d',height: 2),
                             ];
+                            
+### Unique List by Name                    
         list.unique((x) => x.name);
         Output: [
                   Man(name:'a',height: 2),
@@ -28,7 +30,7 @@ Unique Extension(remove-duplicates.dart)
                 
                 
                 
-
+### Unique List by Height
         list.unique((x) => x.height);
         Output: [
                     Man(name:'a',height: 2),
