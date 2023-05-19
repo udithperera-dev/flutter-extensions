@@ -1,7 +1,7 @@
 # flutter-extensions
 Some of useful extension for manipulate text and data sets in flutter
 
-Unique Extension(remove-duplicates.dart)
+Unique Extension(Remove Duplicates from List)
 ## Example for Value List:  
 
         List<int> list = [1,1,1,2,4,5,8,8];
